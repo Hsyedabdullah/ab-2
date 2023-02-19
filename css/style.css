@@ -1,0 +1,30 @@
+body {
+    margin: auto;
+    padding: 10px;
+    border: 2px solid black;
+}
+.youtube {
+    margin-bottom: 5px;
+    padding: 2px;
+    font-size: 25px;
+    color: bisque;
+    text-align: left;
+    background-color: rgb(48, 211, 211);
+
+}
+/*order lis*/
+ol, li{
+    color: blue;
+    font-style: italic;
+    font-size: large;
+}
+/*label for car*/
+select,option{
+    background-color: beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+table, th, td{
+    border: 2px solid black;
+}
